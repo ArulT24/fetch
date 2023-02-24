@@ -1,0 +1,15 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+    I used HashMap to store the payer and their respective balances because it is the easiest structure to access values and also takes up the least amount of space.
+    Also, it takes less time to access values.
+    I used Java because I have the most experience in it and am most familiar with its syntax and data structure.
+
+2. What are the advantages and disadvantages of your solution?
+    I think my code has some disadvantages with respect to its time complexity because of the nested for loop in 
+    the calcBalance function. However, I think the code is very organized and simple and keeps track of all the 
+    data efficiently. 
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+    My favorite personal project has been an app that kept track of a persons stocks and made predictions based
+    on historical and present day data and news. It was challenging because it was the first time that I 
+    had to manage and organize my own project with little help, and was my introduction to Flutter and Firebase. 
+    
